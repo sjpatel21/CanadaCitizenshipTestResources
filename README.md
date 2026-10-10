@@ -42,6 +42,7 @@ website: http://canadian.ml
 
 
 
+* [Citizenship Test Practice](https://citizenshiptestonline.ca/) — 589 free practice questions and timed mock tests in English and French; no mandatory registration. Independent of IRCC; not official exam questions. Use alongside Discover Canada.
+
 ## License
 [MIT](LICENSE) © tonywww
-
